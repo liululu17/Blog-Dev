@@ -1,12 +1,11 @@
-# Personal Blog Website
+# Lulu's Blog Website
 
 Useing template: [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
 ## Topics
-Transportation Modeling
-Mobility Study
-GIS and Mapping
-Open Resources Portal
+`Transportation Modeling` `Mobility Study`
+`GIS and Mapping`
+`Open Resources Portal`
 
 ## Install
 
