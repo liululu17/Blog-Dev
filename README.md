@@ -1,6 +1,12 @@
-# hugo-paperMod Example
+# Personal Blog Website
 
-This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+Useing template: [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+
+## Topics
+Transportation Modeling
+Mobility Study
+GIS and Mapping
+Open Resources Portal
 
 ## Install
 
