@@ -6,6 +6,7 @@ Useing template: [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 `Transportation Modeling` `Mobility Study`
 `GIS and Mapping`
 `Open Resources Portal`
+`Sparial Data Analysis`
 
 ## Install
 
