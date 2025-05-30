@@ -85,11 +85,11 @@ params:
   homeInfoParams:
     Title: "Lulu's Blog"
     Content: >
-      👋 Welcome to Lulu's Blog. It focus on view and techical skills sharing about transportation modeling and smart city.
+      👋 Welcome to Lulu's Blog. It focus on view and techical skills sharing about transportation modeling and urban mobility study.
 
       - Use tags to quick find content interesting for you.
 
-      - 24' Cal. Still learning in the way. If you find any mistake or would love to provide supplementary content, please email me at lulu_liu@berkeley.edu 🙏
+      - Still learning in the way. If you find any mistake or would love to provide supplementary content, please email me at lulu_liu@berkeley.edu 🙏
 
 
   socialIcons:
@@ -106,7 +106,7 @@ params:
       url: "mailto:lulu_liu@berkeley.edu"
     - name: cv
       title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
+      url: "https://drive.google.com/file/d/1PWiZpEUYXsWpPU7uaCuN27a7b4Sgsa7E/view?usp=drive_link"
 
 
   editPost:
