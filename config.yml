@@ -1,7 +1,7 @@
 baseURL: "https://liululu17.github.io/Blog-Dev/"
 title: Lulu's Blog
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
-theme: PaperMod
+theme: hugo-PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
