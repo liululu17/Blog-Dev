@@ -1,5 +1,5 @@
 ---
-title: "Install / Update PaperMod"
+title: "Activity Based Model 101"
 summary: Read aboout Install and Update instructions and sampled configuration templates
 date: 2021-01-20
 series: ["PaperMod"]
