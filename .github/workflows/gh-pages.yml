@@ -7,7 +7,6 @@ on:
       - "LICENSE"
       - "README.md"
     branches:
-      - master
       - lulu_blog
   workflow_dispatch:
     # manual run
@@ -47,7 +46,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: lulu_blog
+          ref: ${{ github.ref }}
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
