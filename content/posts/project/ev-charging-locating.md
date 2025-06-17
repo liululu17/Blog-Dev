@@ -2,9 +2,9 @@
 title: "Charging For All: Towards a Just EV Infrastructure in Cal"
 summary: Is public charging station accessible to everyone? 
 date: 2025-05-17
-series: ["Intro"]
-weight: 1
-aliases: ["/TM-101"]
+series: ["project"]
+weight: 2
+aliases: ["/ev-locating"]
 tags: ["Charging Station", "Zero Emission Transportation", "Research Project"]
 author: ["Lulu Liu"]
 cover:
